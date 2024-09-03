@@ -1,2 +1,2 @@
-# Analizador-Léxico-Java
-Analizador Léxico creado en Java 
+# Lexical Analyzer created with Java
+
